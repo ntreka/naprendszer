@@ -1,0 +1,65 @@
+body{
+  padding: 10px 40px;
+  font-family: Verdana, sans-serif;
+  background-image: url(./hatter.png);
+color:#FFF3C4}
+
+h1, h2{
+  border-bottom: 2px solid #FFB347;
+  letter-spacing: 1px;
+}
+
+h1{
+  margin: 30px 0px 40px 20px;
+}
+
+p{
+  text-align: justify;
+  text-indent: 1.5em;
+}
+
+a{
+  text-decoration: none;
+  color: #FFB347;
+}
+
+#naprajz{
+  float: left;
+  width: 220px;
+}
+
+.bevezeto{
+  font-size: 110%;
+}
+
+.oszlopok{
+  column-count: 3;
+  line-height: 150%;
+}
+
+.fk{
+  font-weight: bold;
+}
+
+.kiemel{
+  font-size: 90%;
+  padding: 10px;
+  border: 1px dashed #FFB347;
+  font-style: italic;
+  background-color: #2B3A67;
+}
+
+#bolygok{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img
+{
+  margin: 10px;
+}
+
+ul{
+  list-style: square;
+}
